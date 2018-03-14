@@ -4,7 +4,16 @@
 *{margin:0;
   padding:0;
 }
-.pink{color:#fff1f5 ;
+#btn1 {
+    background: #b61d49;
+    padding: 10px 20px;
+    color: #fff;
+    width: 100px;
+    text-align: center;
+    margin-top: 10px;
+	border:none;
+}
+.pink{color:#ff4081;
       font-weight:bold;
 	  font-size:25px;
 }
